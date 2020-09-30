@@ -14,5 +14,5 @@ for _ in range(3):
 
     password = password + types[rd.randrange(0,4)]
 
-
+print("password generator")
 print(password)
